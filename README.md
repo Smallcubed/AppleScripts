@@ -1,15 +1,17 @@
 # AppleScripts
 A Collection of Applescripts for Use with MailMaven
 
-Please note that this collection of scripts have not been fully tested. **Use at your own risk**.
+[MailMaven 1.2](https://mailmaven.app) implements a comprehensive AppleScript library that enables scripts and to other Applications the ability to communicate with MailMaven to search, retrieve, modified and organize messages.  This curated collection provides ready to use scripts that will get you started with customizing your message workflow in Maven.
 
-Scripts listed are provided without warranty and may contain issues that adversely affect your messages. 
-
-We recommend testing scripts on sample emails and or accounts before using with critical emails.
+For further information on Scripting Maven, please consult our [Introduction To Scripting MailMaven](ScriptingMailMaven.md).
 
 | Title | Author | Description |
 |---|---|---|
 | [MailMaven to Markdown (Obsidian Optimized)](https://github.com/blu3knight/mailmaven-to-obsidian) | Yury German | A robust AppleScript for macOS that extracts selected emails from MailMaven mail client and converts them into beautifully formatted Markdown (.md) files. |
+
+Please note that this collection of scripts have not been fully tested. Scripts listed are provided without warranty and may contain issues that can adversely affect your messages. **Use at your own risk** 
+
+We recommend testing scripts on sample emails and or accounts before using in general.
 
 # How to Contribute
 
