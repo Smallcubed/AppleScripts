@@ -15,10 +15,10 @@ We recommend testing scripts on sample emails and or accounts before using with 
 
 We look forward to growing this repository with user contributed scripts and ask you to contribute scripts that you feel may be useful to other Mail Maven users.
 
-## Make a Pull Request:
+## Make a Pull Request
 
 Fork this Repository and check out main and branch.  
-Add your script to the Scripts Folder with a unique name.  
+Add your **uncompiled** script to the Scripts Folder with a unique name.  
 At the Top of the script please include 
 
 * the full name of the script, 
@@ -31,7 +31,7 @@ Push your branch to your origin and make a pull request.
 
 I will take a look at your script and when it tests well, add an entry in this readme.
 
-## Send an email:
+## Send an email
 
 Send a brief email to [info@smallcubed.com](mailto:info@smallcubed.com) with the subject: AppleScript Contribution: {script name}
 
@@ -43,7 +43,7 @@ In the body of the email, include
 * a brief description of the script (please keep to &lt; 250 characters)
 * any implementation notes (such as required apps, libraries, etc) 
 
-and attach the script.
+and attach the **uncompiled** script.
 
 ---
 
